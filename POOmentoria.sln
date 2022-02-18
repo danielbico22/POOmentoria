@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POOmentoria", "POOmentoria\POOmentoria.csproj", "{A9E841A8-4376-485F-83F3-C8786E99B52F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{83F57B23-B2B4-4A64-8D2A-22114C1DC023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9E841A8-4376-485F-83F3-C8786E99B52F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E841A8-4376-485F-83F3-C8786E99B52F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E841A8-4376-485F-83F3-C8786E99B52F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E841A8-4376-485F-83F3-C8786E99B52F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73094066-3087-472B-AA40-DD10E0531740}
+	EndGlobalSection
+EndGlobal
