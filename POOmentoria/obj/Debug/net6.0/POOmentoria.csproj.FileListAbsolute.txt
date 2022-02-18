@@ -1,0 +1,15 @@
+C:\ProjetosDIO\POOmentoria\POOmentoria\bin\Debug\net6.0\POOmentoria.exe
+C:\ProjetosDIO\POOmentoria\POOmentoria\bin\Debug\net6.0\POOmentoria.deps.json
+C:\ProjetosDIO\POOmentoria\POOmentoria\bin\Debug\net6.0\POOmentoria.runtimeconfig.json
+C:\ProjetosDIO\POOmentoria\POOmentoria\bin\Debug\net6.0\POOmentoria.dll
+C:\ProjetosDIO\POOmentoria\POOmentoria\bin\Debug\net6.0\POOmentoria.pdb
+C:\ProjetosDIO\POOmentoria\POOmentoria\obj\Debug\net6.0\POOmentoria.csproj.AssemblyReference.cache
+C:\ProjetosDIO\POOmentoria\POOmentoria\obj\Debug\net6.0\POOmentoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosDIO\POOmentoria\POOmentoria\obj\Debug\net6.0\POOmentoria.AssemblyInfoInputs.cache
+C:\ProjetosDIO\POOmentoria\POOmentoria\obj\Debug\net6.0\POOmentoria.AssemblyInfo.cs
+C:\ProjetosDIO\POOmentoria\POOmentoria\obj\Debug\net6.0\POOmentoria.csproj.CoreCompileInputs.cache
+C:\ProjetosDIO\POOmentoria\POOmentoria\obj\Debug\net6.0\POOmentoria.dll
+C:\ProjetosDIO\POOmentoria\POOmentoria\obj\Debug\net6.0\refint\POOmentoria.dll
+C:\ProjetosDIO\POOmentoria\POOmentoria\obj\Debug\net6.0\POOmentoria.pdb
+C:\ProjetosDIO\POOmentoria\POOmentoria\obj\Debug\net6.0\POOmentoria.genruntimeconfig.cache
+C:\ProjetosDIO\POOmentoria\POOmentoria\obj\Debug\net6.0\ref\POOmentoria.dll
